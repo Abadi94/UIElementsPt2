@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="scorpion">
+        <item>Bodak Yellow</item>
+        <item>Press</item>
+        <item>Please me</item>
+        <item>Money</item>
+        <item>Taki Taki</item>
+    </string-array>
+    <string-array name="abbeyRoad">
+        <item>Goodbey</item>
+        <item>Circles</item>
+        <item>I Fall apart</item>
+        <item>Psycho</item>
+        <item>Congratulationsn</item>
+    </string-array>
+    <string-array name="divide">
+        <item>One Time</item>
+        <item>Pop Star</item>
+        <item>Lonely</item>
+        <item>Yumi</item>
+        <item>Baby</item>
+    </string-array>
+</resources>
